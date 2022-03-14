@@ -1,0 +1,4 @@
+#Mon Mar 14 20:13:00 PKT 2022
+base.0=C\:\\Users\\lenovo\\Documents\\Flutter Course\\job_posting\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
