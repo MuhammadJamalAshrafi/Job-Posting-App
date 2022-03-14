@@ -1,4 +1,4 @@
-# job_posting
+# Job Posting App
 
 A new Flutter project.
 
